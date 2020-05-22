@@ -17,7 +17,7 @@ To make it easier to execute you can put the binary in your `$PATH`.
 ## Usage
 
 ```
-assetfinder [--subs-only] <domain>
+assetfinder [--subs-only] <site.com>
 ```
 
 ## Sources
