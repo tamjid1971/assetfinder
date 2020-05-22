@@ -22,7 +22,7 @@ assetfinder [--subs-only] <site.com>
 
 ## Sources
 
-Please feel free to issue pull requests with new sources! :)
+Please feel free to issue pull requests with new sources! :) <3
 
 ### Implemented
 * crt.sh
