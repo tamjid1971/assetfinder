@@ -35,3 +35,4 @@ func fetchCrtSh(domain string) ([]string, error) {
 	}
 	return output, nil
 }
+ 
